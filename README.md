@@ -1,6 +1,6 @@
 # Systematic-creation-and-phenotyping-of-Mendelian-disease-models-in-C.elegans
 
-The code in this repository is used to generate all of the figures found in: “Systematic creation and phenotyping of Mendelian disease models in C. elegans: towards large-scale drug repurposing”. The datasets needed to run the code can be found in the Zenodo repository linked in the paper.
+The code in this repository is used to generate all of the figures found in: “Systematic creation and phenotyping of Mendelian disease models in C. elegans: towards large-scale drug repurposing” ( https://doi.org/10.7554/eLife.92491.4). The datasets needed to run the code can be found in the Zenodo repository linked in the paper.
 
 All of this code will also need to be ran in an environment with Tierpsy and TierpsyTools installed. These can be downloaded from our group’s GitHub Repository: https://github.com/Tierpsy
 
